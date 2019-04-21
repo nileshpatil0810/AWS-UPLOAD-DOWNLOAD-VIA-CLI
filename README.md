@@ -1,6 +1,14 @@
 # AWS-UPLOAD-DOWNLOAD-VIA-CLI
 AWS S3 UPLOADING AND DOWNLOADING FROM LINUX COMMAND LINE
 
+# Prerequisite :
+
+- Create s3-bucket account
+- Create IAM users
+- Create group
+- Attach policy
+- Donwload IAM users credentials file
+
 ----------------------
 #1 INSTALL PYTHON PIP 
 
